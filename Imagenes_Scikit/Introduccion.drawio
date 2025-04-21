@@ -1,0 +1,57 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="Xrt6dMVssRZxj-XLbZUK">
+    <mxGraphModel dx="1038" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="1" source="hV3xgLr9dGrhqzoMMgC2-1" target="hV3xgLr9dGrhqzoMMgC2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="1" source="hV3xgLr9dGrhqzoMMgC2-1" target="hV3xgLr9dGrhqzoMMgC2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-1" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;Datos&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="189" width="53" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="hV3xgLr9dGrhqzoMMgC2-2" target="hV3xgLr9dGrhqzoMMgC2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-2" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;X&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="135" width="28" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="1" source="hV3xgLr9dGrhqzoMMgC2-3" target="hV3xgLr9dGrhqzoMMgC2-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="164" />
+              <mxPoint x="420" y="221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-3" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;Variables&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;independientes&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="295" y="120" width="109" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-17" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="hV3xgLr9dGrhqzoMMgC2-4" target="hV3xgLr9dGrhqzoMMgC2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-4" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;Modelo&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="192" width="63" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-5" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;Predicción&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=1;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="192" width="82" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-19" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="hV3xgLr9dGrhqzoMMgC2-6" target="hV3xgLr9dGrhqzoMMgC2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-6" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;y&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="229" y="234" width="25" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="1" source="hV3xgLr9dGrhqzoMMgC2-7" target="hV3xgLr9dGrhqzoMMgC2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hV3xgLr9dGrhqzoMMgC2-7" value="&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;Variables&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;&lt;h3&gt;&lt;font face=&quot;Garamond&quot;&gt;dependientes&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="301" y="219" width="97" height="88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
